@@ -1,10 +1,10 @@
 <h1 align="center">🧑‍💻 Hi, I'm Hamza</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a final-year software engineering student, passionate about the fascinating world of artificial intelligence and enthusiastic about developing with cutting-edge technologies</h3>
-<img  src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" width="100px" height="100px"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-ms&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-ms" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-ms" alt="hamza-ms" /></a> </p>
-
+<img width="400px" align="right" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif"/>
 - 🔭 I’m currently working on **Project planing**
 
 - 🌱 I’m currently learning **Angular**
