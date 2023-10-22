@@ -10,14 +10,16 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-ms" alt="hamza-ms" /></a> </p> !-->
 
-<div style="clear: both;">
-  <img width="170px" align="left" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
-  <ul style="margin-left: 190px;">
+
+  <img height="90px" align="left" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
+
+   
+   <ul >
     <li>🔭 I’m currently working on <b>Project planning website</b></li>
     <li>🌱 I’m currently learning <b>Angular</b></li>
     <li>💬 Ask me about <b>Spring Boot, React.js</b></li>
   </ul>
-</div>
+
 
 
 
