@@ -4,7 +4,7 @@
 
 
 <h1 align="center">🧑‍💻 I'm Hamza</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a final-year software engineering student, passionate about the fascinating world of artificial intelligence and enthusiastic about developing with cutting-edge technologies</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a junior software engineering , passionate about the fascinating world of artificial intelligence and enthusiastic about developing with cutting-edge technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-ms&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-ms" /> </p>
 
@@ -13,16 +13,8 @@
 
 <!--  <img height="90px" align="right" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 !-->
+
    
-   <ul >
-    <li>🔭 I’m currently working on <b>Project planning website</b></li>
-    <li>🌱 I’m currently learning <b>Angular</b></li>
-    <li>💬 Ask me about <b>Spring Boot, React.js</b></li>
-  </ul>
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 I'm always open to connecting with like-minded individuals, tech enthusiasts, and potential collaborators. Feel free to reach out, share your thoughts, or discuss potential projects. Let's learn and grow together in this exciting world of software engineering, AI, and emerging technologies.</p>
